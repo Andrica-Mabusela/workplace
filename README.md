@@ -26,4 +26,4 @@ This project aims to evaluate the prices of different vegetables by determining 
 
 
 ## Usage
-open main.ipynb notebook and click on 'Run All' to run all the notebook cells
+open the notebook and click on 'Run All' to run all the notebook cells
